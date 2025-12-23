@@ -1,0 +1,18 @@
+{
+  "name": "My Token List",
+  "timestamp": "2025-01-01T00:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x9CaCB4437C37E0cBcD580e70C6A8C119f44760d0",
+      "name": "My Token",
+      "symbol": "MYT",
+      "decimals": 18
+    }
+  ]
+}
